@@ -64,3 +64,5 @@ Features / Highlights:
 
  . Tier 1 to Tier 3 performance comparison
 
+Screenshort / Demo
+show what the dashboard look like.- [alt.txt](https://github.com/Kamal2ydv/Grocery-dashboard/blob/main/Blinkit%20grocery%20data.png)
